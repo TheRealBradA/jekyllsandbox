@@ -11,6 +11,9 @@ description: My Jekyll Experiment
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars2.githubusercontent.com/u/1302755?s=40&v=4
 
+# URL format
+permalink: /jekyllsandbox/:year/:month/:day/:title
+
 #
 # Flags below are optional
 #
